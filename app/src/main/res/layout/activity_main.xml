@@ -15,7 +15,7 @@
         <ImageButton
             android:layout_width="200dp"
             android:layout_height="200dp"
-            android:src="@drawable/lorax"
+            android:src="@drawable/wreckitralph"
             android:scaleType="centerCrop"
             android:onClick="playLorax"
             android:layout_weight="1"/>
